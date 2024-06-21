@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/D4D03AQEZaHwhxb27eg/profile-displayphoto-shrink_200_200/0/1700647001942?e=1718841600&v=beta&t=F__ArAaS6VavxVH185-I_qLuDoCYVyJVg_k68C_qfBw"  />
-</div>
-
 
 
 <h1 align="center">Hi👋, I'm Mustapha</h1>
